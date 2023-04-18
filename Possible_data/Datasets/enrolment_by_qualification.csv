@@ -1,0 +1,78 @@
+indicator,Indicator 04: Enrolments by qualification type,,,,,,,,,,,,,
+title,Enrolments by qualification type,,,,,,,,,,,,,
+type,bar,(line/bar),,,,,,,,,,,,
+yaxistitle,Percentage,,,,,,,,,,,,,
+xaxisvalues,"2000 ,2001 ,2002 ,2003 ,2004 ,2005 ,2006 ,2007 ,2008 ,2009 ,2010 ,2011 ,2012",,,,,,,,,,,,,
+refinedindicator,"Undergraduates,Postgraduate up to masters,Masters and doctors",,,,,,,,,,,,,
+data,,,,,,,,,,,,,,
+,,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
+CPUT,Undergraduates,99%,98%,98%,97%,96%,96%,96%,96%,95%,94%,94%,95%,95%
+CPUT,Postgraduate up to masters,0%,1%,1%,1%,2%,2%,2%,2%,3%,3%,3%,2%,2%
+CPUT,Masters and doctors,1%,1%,2%,2%,2%,2%,2%,2%,3%,3%,3%,3%,3%
+CUT,Undergraduates,98%,98%,98%,98%,96%,94%,95%,95%,95%,96%,96%,94%,94%
+CUT,Postgraduate up to masters,0%,0%,0%,0%,2%,3%,2%,3%,2%,2%,2%,4%,4%
+CUT,Masters and doctors,2%,2%,2%,2%,2%,3%,3%,3%,2%,2%,2%,2%,2%
+DUT,Undergraduates,98%,98%,98%,99%,99%,98%,98%,98%,98%,98%,98%,98%,98%
+DUT,Postgraduate up to masters,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
+DUT,Masters and doctors,2%,2%,2%,1%,1%,2%,2%,2%,2%,2%,2%,2%,2%
+MUT,Undergraduates,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%
+MUT,Postgraduate up to masters,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
+MUT,Masters and doctors,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
+NMMU,Undergraduates,90%,89%,87%,87%,87%,88%,89%,89%,87%,86%,86%,87%,86%
+NMMU,Postgraduate up to masters,6%,7%,8%,6%,6%,4%,4%,4%,5%,6%,5%,5%,5%
+NMMU,Masters and doctors,4%,4%,5%,7%,6%,7%,7%,7%,7%,7%,8%,8%,9%
+NWU,Undergraduates,65%,66%,64%,62%,65%,75%,75%,78%,77%,75%,75%,74%,75%
+NWU,Postgraduate up to masters,24%,25%,27%,29%,27%,17%,16%,14%,16%,18%,19%,19%,18%
+NWU,Masters and doctors,11%,10%,9%,9%,8%,9%,9%,8%,7%,7%,6%,7%,7%
+Rhodes,Undergraduates,80%,81%,82%,82%,79%,79%,76%,75%,76%,76%,74%,73%,71%
+Rhodes,Postgraduate up to masters,9%,9%,8%,9%,8%,8%,10%,10%,9%,9%,11%,10%,11%
+Rhodes,Masters and doctors,10%,10%,10%,9%,13%,13%,14%,14%,14%,14%,16%,17%,18%
+Stellenbosch,Undergraduates,59%,60%,60%,64%,65%,65%,65%,65%,64%,63%,63%,63%,64%
+Stellenbosch,Postgraduate up to masters,22%,20%,20%,15%,14%,13%,12%,12%,13%,15%,15%,13%,13%
+Stellenbosch,Masters and doctors,19%,20%,20%,21%,21%,22%,22%,23%,23%,22%,23%,24%,23%
+TUT,Undergraduates,98%,97%,97%,96%,95%,93%,94%,95%,97%,98%,96%,96%,96%
+TUT,Postgraduate up to masters,1%,1%,0%,0%,0%,3%,3%,2%,1%,0%,1%,1%,1%
+TUT,Masters and doctors,1%,2%,3%,4%,5%,4%,4%,3%,3%,2%,3%,3%,3%
+UCT,Undergraduates,69%,70%,72%,72%,71%,71%,72%,72%,72%,71%,70%,69%,69%
+UCT,Postgraduate up to masters,11%,11%,9%,10%,10%,10%,10%,9%,10%,11%,11%,11%,11%
+UCT,Masters and doctors,20%,19%,19%,18%,19%,19%,18%,18%,18%,18%,19%,20%,20%
+Fort Hare,Undergraduates,57%,91%,93%,91%,82%,88%,87%,85%,85%,85%,83%,83%,82%
+Fort Hare,Postgraduate up to masters,39%,6%,4%,5%,14%,7%,7%,7%,6%,7%,8%,8%,8%
+Fort Hare,Masters and doctors,4%,3%,2%,4%,3%,5%,6%,8%,8%,8%,9%,9%,10%
+UFS,Undergraduates,58%,54%,56%,57%,61%,68%,70%,71%,72%,72%,75%,77%,79%
+UFS,Postgraduate up to masters,25%,28%,28%,28%,26%,19%,18%,17%,17%,17%,15%,14%,13%
+UFS,Masters and doctors,17%,18%,16%,15%,13%,13%,13%,12%,11%,10%,10%,9%,8%
+UJ,Undergraduates,81%,80%,81%,81%,82%,84%,85%,86%,85%,87%,87%,87%,86%
+UJ,Postgraduate up to masters,12%,13%,12%,12%,13%,11%,10%,9%,10%,8%,8%,8%,8%
+UJ,Masters and doctors,7%,7%,7%,7%,6%,5%,5%,5%,5%,5%,5%,5%,6%
+UKZN,Undergraduates,68%,69%,71%,72%,72%,72%,73%,77%,79%,79%,79%,80%,78%
+UKZN,Postgraduate up to masters,20%,18%,17%,16%,16%,15%,13%,10%,7%,8%,9%,7%,8%
+UKZN,Masters and doctors,12%,12%,12%,13%,12%,13%,14%,13%,13%,13%,12%,13%,14%
+UL,Undergraduates,82%,84%,79%,79%,80%,82%,83%,83%,84%,82%,82%,84%,86%
+UL,Postgraduate up to masters,10%,6%,8%,8%,7%,7%,6%,6%,6%,7%,7%,6%,5%
+UL,Masters and doctors,9%,10%,13%,13%,13%,11%,11%,11%,10%,11%,11%,10%,9%
+UP,Undergraduates,78%,76%,73%,71%,73%,72%,71%,70%,68%,66%,66%,64%,63%
+UP,Postgraduate up to masters,8%,9%,9%,12%,12%,12%,13%,16%,19%,21%,21%,22%,22%
+UP,Masters and doctors,14%,15%,18%,18%,16%,16%,15%,14%,13%,13%,13%,14%,15%
+Unisa,Undergraduates,90%,91%,90%,90%,89%,89%,90%,90%,90%,89%,89%,88%,88%
+Unisa,Postgraduate up to masters,7%,7%,7%,7%,7%,7%,8%,8%,8%,9%,9%,10%,10%
+Unisa,Masters and doctors,3%,3%,3%,3%,3%,3%,3%,2%,2%,2%,2%,2%,2%
+UV,Undergraduates,92%,93%,88%,92%,92%,92%,93%,94%,93%,91%,90%,87%,87%
+UV,Postgraduate up to masters,6%,4%,6%,4%,4%,5%,3%,3%,4%,4%,5%,7%,6%
+UV,Masters and doctors,2%,3%,6%,4%,4%,3%,3%,3%,4%,4%,5%,6%,7%
+UWC,Undergraduates,76%,76%,79%,79%,76%,79%,81%,81%,79%,79%,79%,79%,79%
+UWC,Postgraduate up to masters,12%,11%,9%,9%,11%,10%,9%,9%,9%,9%,10%,10%,10%
+UWC,Masters and doctors,12%,12%,12%,12%,12%,10%,10%,10%,12%,11%,11%,11%,11%
+Wits,Undergraduates,66%,69%,70%,69%,70%,67%,68%,69%,68%,69%,69%,69%,69%
+Wits,Postgraduate up to masters,11%,10%,10%,11%,10%,10%,8%,8%,9%,9%,9%,8%,8%
+Wits,Masters and doctors,23%,21%,20%,20%,20%,23%,23%,23%,24%,22%,22%,23%,23%
+UZ,Undergraduates,79%,74%,77%,76%,69%,75%,82%,89%,86%,89%,92%,91%,91%
+UZ,Postgraduate up to masters,13%,20%,15%,17%,25%,20%,14%,6%,9%,7%,4%,6%,6%
+UZ,Masters and doctors,8%,7%,8%,6%,6%,5%,4%,5%,5%,4%,4%,3%,3%
+VUT,Undergraduates,100%,100%,99%,99%,99%,99%,99%,99%,99%,99%,99%,99%,99%
+VUT,Postgraduate up to masters,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
+VUT,Masters and doctors,0%,0%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%
+WSU,Undergraduates,96%,96%,93%,97%,97%,98%,98%,97%,97%,96%,96%,96%,95%
+WSU,Postgraduate up to masters,3%,3%,6%,3%,2%,2%,2%,2%,2%,3%,3%,2%,3%
+WSU,Masters and doctors,1%,1%,1%,0%,0%,0%,1%,1%,1%,1%,1%,2%,2%
+EOF,,,,,,,,,,,,,,

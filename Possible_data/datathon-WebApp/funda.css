@@ -1,0 +1,72 @@
+nav ul li {
+	display:inline;
+	
+}
+nav ul{
+	background-color:orange;
+	margin: 0px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+	border-radius : 10px;
+	text-align:center;
+	
+	
+}
+
+body {
+	margin:auto;
+	text-align:center;
+	
+	
+}
+
+
+
+
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px; 
+
+
+}
+
+
+
+button , #submit{
+	
+	 padding: 5px 5px 5px 5px;
+
+	
+	
+	
+}
+
+button  a{
+	
+	color:grey;
+    text-decoration: none;
+
+
+	
+}
+
+table,tr{
+    border: 1px solid black;
+}
+
+form , table {
+    max-width: 64em;
+    margin: auto;
+    text-align: center;
+ }
+
+button:hover, a:hover{
+	background-color:purple;
+	
+	
+}
+
+
+
+
+  
